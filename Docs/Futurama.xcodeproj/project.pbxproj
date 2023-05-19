@@ -1,0 +1,411 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		130F8B92001BDF0A11CA292A /* Futurama.java in Sources */ = {isa = PBXBuildFile; fileRef = 010341B7FEEF030011DB9C8B /* Futurama.java */; };
+		4C0094BD0B37F04C002B6ADB /* Bomb.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C0094B90B37F04C002B6ADB /* Bomb.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C0094BE0B37F04C002B6ADB /* Bomb2.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C0094BA0B37F04C002B6ADB /* Bomb2.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C0094BF0B37F04C002B6ADB /* Bonus Explosion.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C0094BB0B37F04C002B6ADB /* Bonus Explosion.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C0094C00B37F04C002B6ADB /* Explosion.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C0094BC0B37F04C002B6ADB /* Explosion.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C6213340B4B74CC0067C9F5 /* Hit.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C6213330B4B74CC0067C9F5 /* Hit.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C88BF4D0B294875006EA8EF /* Highscores.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C88BF4C0B294875006EA8EF /* Highscores.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C90A9530B37DC9B00A65ACE /* Decend.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C90A9520B37DC9B00A65ACE /* Decend.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C9600000ACDC8C10011AF21 /* Madman.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFD50ACDC8C10011AF21 /* Madman.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C9600010ACDC8C10011AF21 /* Orders.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFD60ACDC8C10011AF21 /* Orders.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C9600020ACDC8C10011AF21 /* Shield.java in Sources */ = {isa = PBXBuildFile; fileRef = 4C96FFD70ACDC8C10011AF21 /* Shield.java */; };
+		4C9600030ACDC8C10011AF21 /* Shooter.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFD80ACDC8C10011AF21 /* Shooter.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C9600040ACDC8C10011AF21 /* Shooter.java in Sources */ = {isa = PBXBuildFile; fileRef = 4C96FFD90ACDC8C10011AF21 /* Shooter.java */; };
+		4C9600050ACDC8C10011AF21 /* Type.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFDA0ACDC8C10011AF21 /* Type.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C9600060ACDC8C10011AF21 /* War_over.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFDB0ACDC8C10011AF21 /* War_over.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C9600070ACDC8C10011AF21 /* Whir.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFDC0ACDC8C10011AF21 /* Whir.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFDD0ACDC8C10011AF21 /* Bells.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFB20ACDC8C00011AF21 /* Bells.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFDF0ACDC8C10011AF21 /* Boom.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFB40ACDC8C00011AF21 /* Boom.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFE00ACDC8C10011AF21 /* Bullet.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFB50ACDC8C00011AF21 /* Bullet.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFE10ACDC8C10011AF21 /* buzz.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFB60ACDC8C00011AF21 /* buzz.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFE20ACDC8C10011AF21 /* CongratsA.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFB70ACDC8C00011AF21 /* CongratsA.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFE30ACDC8C10011AF21 /* CongratsAS.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFB80ACDC8C00011AF21 /* CongratsAS.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFE40ACDC8C10011AF21 /* CongratsASS.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFB90ACDC8C00011AF21 /* CongratsASS.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFE50ACDC8C10011AF21 /* Danger Zone.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFBA0ACDC8C00011AF21 /* Danger Zone.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFE60ACDC8C10011AF21 /* Defeated.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFBB0ACDC8C00011AF21 /* Defeated.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFE70ACDC8C10011AF21 /* End.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFBC0ACDC8C00011AF21 /* End.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFE80ACDC8C10011AF21 /* Fry.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFBD0ACDC8C00011AF21 /* Fry.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFE90ACDC8C10011AF21 /* Fry1.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFBE0ACDC8C00011AF21 /* Fry1.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFEA0ACDC8C10011AF21 /* Fry2.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFBF0ACDC8C00011AF21 /* Fry2.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFEB0ACDC8C10011AF21 /* futurama_title.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFC00ACDC8C00011AF21 /* futurama_title.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFEC0ACDC8C10011AF21 /* Futurama.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFC10ACDC8C10011AF21 /* Futurama.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFED0ACDC8C10011AF21 /* FuturamaGame.java in Sources */ = {isa = PBXBuildFile; fileRef = 4C96FFC20ACDC8C10011AF21 /* FuturamaGame.java */; };
+		4C96FFEE0ACDC8C10011AF21 /* FuturamaJFrame.java in Sources */ = {isa = PBXBuildFile; fileRef = 4C96FFC30ACDC8C10011AF21 /* FuturamaJFrame.java */; };
+		4C96FFEF0ACDC8C10011AF21 /* FuturamaJPanel.java in Sources */ = {isa = PBXBuildFile; fileRef = 4C96FFC40ACDC8C10011AF21 /* FuturamaJPanel.java */; };
+		4C96FFF00ACDC8C10011AF21 /* Hehehe.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFC50ACDC8C10011AF21 /* Hehehe.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFF10ACDC8C10011AF21 /* Intro.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFC60ACDC8C10011AF21 /* Intro.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFF20ACDC8C10011AF21 /* Invader.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFC70ACDC8C10011AF21 /* Invader.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFF30ACDC8C10011AF21 /* Invader.java in Sources */ = {isa = PBXBuildFile; fileRef = 4C96FFC80ACDC8C10011AF21 /* Invader.java */; };
+		4C96FFF50ACDC8C10011AF21 /* Invader1a.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFCA0ACDC8C10011AF21 /* Invader1a.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFF60ACDC8C10011AF21 /* Invader1b.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFCB0ACDC8C10011AF21 /* Invader1b.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFF70ACDC8C10011AF21 /* Invader2a.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFCC0ACDC8C10011AF21 /* Invader2a.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFF80ACDC8C10011AF21 /* Invader2b.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFCD0ACDC8C10011AF21 /* Invader2b.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFF90ACDC8C10011AF21 /* Invader3a.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFCE0ACDC8C10011AF21 /* Invader3a.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFFA0ACDC8C10011AF21 /* Invader3b.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFCF0ACDC8C10011AF21 /* Invader3b.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFFB0ACDC8C10011AF21 /* Invader4.gif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFD00ACDC8C10011AF21 /* Invader4.gif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFFC0ACDC8C10011AF21 /* Landing.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFD10ACDC8C10011AF21 /* Landing.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFFD0ACDC8C10011AF21 /* Last one.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFD20ACDC8C10011AF21 /* Last one.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFFE0ACDC8C10011AF21 /* Lela.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFD30ACDC8C10011AF21 /* Lela.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4C96FFFF0ACDC8C10011AF21 /* Lets rock.aif in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4C96FFD40ACDC8C10011AF21 /* Lets rock.aif */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4CD02EA20B73CCD300065DA8 /* Invader.jpg in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4CD02EA10B73CCD300065DA8 /* Invader.jpg */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4CD02EB00B73CD7C00065DA8 /* BonusInvader.java in Sources */ = {isa = PBXBuildFile; fileRef = 4CD02EAF0B73CD7C00065DA8 /* BonusInvader.java */; };
+		4CDC8A2D0B3CC516008DCBE4 /* Highscores.txt in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4CDC8A2C0B3CC516008DCBE4 /* Highscores.txt */; settings = {JAVA_ARCHIVE_SUBDIR = ""; }; };
+		4CDC8A2F0B3CC522008DCBE4 /* Highscores.txt in JavaArchive */ = {isa = PBXBuildFile; fileRef = 4CDC8A2E0B3CC522008DCBE4 /* Highscores.txt */; settings = {JAVA_ARCHIVE_SUBDIR = build/Debug; }; };
+		6A0644BD02C7C4400CC91562 /* Futurama.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6A0644AC02C7C26E0CC91562 /* Futurama.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		6A0644BC02C7C42C0CC91562 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 8;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				6A0644BD02C7C4400CC91562 /* Futurama.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		010341B7FEEF030011DB9C8B /* Futurama.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = Futurama.java; sourceTree = "<group>"; };
+		4C0094B90B37F04C002B6ADB /* Bomb.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Bomb.gif; sourceTree = "<group>"; };
+		4C0094BA0B37F04C002B6ADB /* Bomb2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Bomb2.gif; sourceTree = "<group>"; };
+		4C0094BB0B37F04C002B6ADB /* Bonus Explosion.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Bonus Explosion.gif"; sourceTree = "<group>"; };
+		4C0094BC0B37F04C002B6ADB /* Explosion.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Explosion.gif; sourceTree = "<group>"; };
+		4C6213330B4B74CC0067C9F5 /* Hit.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Hit.aif; sourceTree = "<group>"; };
+		4C88BF4C0B294875006EA8EF /* Highscores.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Highscores.jpg; sourceTree = "<group>"; };
+		4C90A9520B37DC9B00A65ACE /* Decend.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Decend.aif; sourceTree = "<group>"; };
+		4C96FFB20ACDC8C00011AF21 /* Bells.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bells.aif; sourceTree = "<group>"; };
+		4C96FFB40ACDC8C00011AF21 /* Boom.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Boom.aif; sourceTree = "<group>"; };
+		4C96FFB50ACDC8C00011AF21 /* Bullet.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bullet.aif; sourceTree = "<group>"; };
+		4C96FFB60ACDC8C00011AF21 /* buzz.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = buzz.aif; sourceTree = "<group>"; };
+		4C96FFB70ACDC8C00011AF21 /* CongratsA.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CongratsA.jpg; sourceTree = "<group>"; };
+		4C96FFB80ACDC8C00011AF21 /* CongratsAS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CongratsAS.jpg; sourceTree = "<group>"; };
+		4C96FFB90ACDC8C00011AF21 /* CongratsASS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CongratsASS.jpg; sourceTree = "<group>"; };
+		4C96FFBA0ACDC8C00011AF21 /* Danger Zone.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Danger Zone.aif"; sourceTree = "<group>"; };
+		4C96FFBB0ACDC8C00011AF21 /* Defeated.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Defeated.aif; sourceTree = "<group>"; };
+		4C96FFBC0ACDC8C00011AF21 /* End.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = End.jpg; sourceTree = "<group>"; };
+		4C96FFBD0ACDC8C00011AF21 /* Fry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fry.jpg; sourceTree = "<group>"; };
+		4C96FFBE0ACDC8C00011AF21 /* Fry1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fry1.jpg; sourceTree = "<group>"; };
+		4C96FFBF0ACDC8C00011AF21 /* Fry2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Fry2.jpg; sourceTree = "<group>"; };
+		4C96FFC00ACDC8C00011AF21 /* futurama_title.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = futurama_title.jpg; sourceTree = "<group>"; };
+		4C96FFC10ACDC8C10011AF21 /* Futurama.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Futurama.jpg; sourceTree = "<group>"; };
+		4C96FFC20ACDC8C10011AF21 /* FuturamaGame.java */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.java; path = FuturamaGame.java; sourceTree = "<group>"; };
+		4C96FFC30ACDC8C10011AF21 /* FuturamaJFrame.java */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.java; path = FuturamaJFrame.java; sourceTree = "<group>"; };
+		4C96FFC40ACDC8C10011AF21 /* FuturamaJPanel.java */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.java; path = FuturamaJPanel.java; sourceTree = "<group>"; };
+		4C96FFC50ACDC8C10011AF21 /* Hehehe.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Hehehe.aif; sourceTree = "<group>"; };
+		4C96FFC60ACDC8C10011AF21 /* Intro.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Intro.aif; sourceTree = "<group>"; };
+		4C96FFC70ACDC8C10011AF21 /* Invader.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Invader.aif; sourceTree = "<group>"; };
+		4C96FFC80ACDC8C10011AF21 /* Invader.java */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.java; path = Invader.java; sourceTree = "<group>"; };
+		4C96FFCA0ACDC8C10011AF21 /* Invader1a.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Invader1a.gif; sourceTree = "<group>"; };
+		4C96FFCB0ACDC8C10011AF21 /* Invader1b.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Invader1b.gif; sourceTree = "<group>"; };
+		4C96FFCC0ACDC8C10011AF21 /* Invader2a.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Invader2a.gif; sourceTree = "<group>"; };
+		4C96FFCD0ACDC8C10011AF21 /* Invader2b.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Invader2b.gif; sourceTree = "<group>"; };
+		4C96FFCE0ACDC8C10011AF21 /* Invader3a.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Invader3a.gif; sourceTree = "<group>"; };
+		4C96FFCF0ACDC8C10011AF21 /* Invader3b.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Invader3b.gif; sourceTree = "<group>"; };
+		4C96FFD00ACDC8C10011AF21 /* Invader4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Invader4.gif; sourceTree = "<group>"; };
+		4C96FFD10ACDC8C10011AF21 /* Landing.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Landing.aif; sourceTree = "<group>"; };
+		4C96FFD20ACDC8C10011AF21 /* Last one.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Last one.aif"; sourceTree = "<group>"; };
+		4C96FFD30ACDC8C10011AF21 /* Lela.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lela.jpg; sourceTree = "<group>"; };
+		4C96FFD40ACDC8C10011AF21 /* Lets rock.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lets rock.aif"; sourceTree = "<group>"; };
+		4C96FFD50ACDC8C10011AF21 /* Madman.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Madman.aif; sourceTree = "<group>"; };
+		4C96FFD60ACDC8C10011AF21 /* Orders.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Orders.aif; sourceTree = "<group>"; };
+		4C96FFD70ACDC8C10011AF21 /* Shield.java */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.java; path = Shield.java; sourceTree = "<group>"; };
+		4C96FFD80ACDC8C10011AF21 /* Shooter.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Shooter.gif; sourceTree = "<group>"; };
+		4C96FFD90ACDC8C10011AF21 /* Shooter.java */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.java; path = Shooter.java; sourceTree = "<group>"; };
+		4C96FFDA0ACDC8C10011AF21 /* Type.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Type.aif; sourceTree = "<group>"; };
+		4C96FFDB0ACDC8C10011AF21 /* War_over.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = War_over.jpg; sourceTree = "<group>"; };
+		4C96FFDC0ACDC8C10011AF21 /* Whir.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Whir.aif; sourceTree = "<group>"; };
+		4CD02EA10B73CCD300065DA8 /* Invader.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Invader.jpg; sourceTree = "<group>"; };
+		4CD02EAF0B73CD7C00065DA8 /* BonusInvader.java */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.java; path = BonusInvader.java; sourceTree = "<group>"; };
+		4CDC8A2C0B3CC516008DCBE4 /* Highscores.txt */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text; path = Highscores.txt; sourceTree = "<group>"; };
+		4CDC8A2E0B3CC522008DCBE4 /* Highscores.txt */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text; name = Highscores.txt; path = build/Debug/Highscores.txt; sourceTree = "<group>"; };
+		6A0644AC02C7C26E0CC91562 /* Futurama.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Futurama.1; sourceTree = "<group>"; };
+		6A8008AE02C7B68F0CC91562 /* Manifest */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Manifest; sourceTree = "<group>"; };
+		6A9ED92C02B0286D0CC91562 /* Futurama.jar */ = {isa = PBXFileReference; explicitFileType = archive.jar; includeInIndex = 0; path = Futurama.jar; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		130F8B94001BDF0A11CA292A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		00E6828FFEC88D1A11DB9C8B = {
+			isa = PBXGroup;
+			children = (
+				4CD02EAF0B73CD7C00065DA8 /* BonusInvader.java */,
+				010341B7FEEF030011DB9C8B /* Futurama.java */,
+				4C96FFB20ACDC8C00011AF21 /* Bells.aif */,
+				4C96FFB40ACDC8C00011AF21 /* Boom.aif */,
+				4C96FFB50ACDC8C00011AF21 /* Bullet.aif */,
+				4C96FFB60ACDC8C00011AF21 /* buzz.aif */,
+				4C96FFB70ACDC8C00011AF21 /* CongratsA.jpg */,
+				4C96FFB80ACDC8C00011AF21 /* CongratsAS.jpg */,
+				4C96FFB90ACDC8C00011AF21 /* CongratsASS.jpg */,
+				4CDC8A2E0B3CC522008DCBE4 /* Highscores.txt */,
+				4CDC8A2C0B3CC516008DCBE4 /* Highscores.txt */,
+				4C96FFBA0ACDC8C00011AF21 /* Danger Zone.aif */,
+				4C96FFBB0ACDC8C00011AF21 /* Defeated.aif */,
+				4C96FFBC0ACDC8C00011AF21 /* End.jpg */,
+				4C96FFBD0ACDC8C00011AF21 /* Fry.jpg */,
+				4C96FFBE0ACDC8C00011AF21 /* Fry1.jpg */,
+				4C96FFBF0ACDC8C00011AF21 /* Fry2.jpg */,
+				4C96FFC00ACDC8C00011AF21 /* futurama_title.jpg */,
+				4C96FFC10ACDC8C10011AF21 /* Futurama.jpg */,
+				4C96FFC20ACDC8C10011AF21 /* FuturamaGame.java */,
+				4C96FFC30ACDC8C10011AF21 /* FuturamaJFrame.java */,
+				4C96FFC40ACDC8C10011AF21 /* FuturamaJPanel.java */,
+				4C6213330B4B74CC0067C9F5 /* Hit.aif */,
+				4C0094B90B37F04C002B6ADB /* Bomb.gif */,
+				4C0094BA0B37F04C002B6ADB /* Bomb2.gif */,
+				4C0094BB0B37F04C002B6ADB /* Bonus Explosion.gif */,
+				4C0094BC0B37F04C002B6ADB /* Explosion.gif */,
+				4C90A9520B37DC9B00A65ACE /* Decend.aif */,
+				4C88BF4C0B294875006EA8EF /* Highscores.jpg */,
+				4C96FFC50ACDC8C10011AF21 /* Hehehe.aif */,
+				4C96FFC60ACDC8C10011AF21 /* Intro.aif */,
+				4C96FFC70ACDC8C10011AF21 /* Invader.aif */,
+				4C96FFC80ACDC8C10011AF21 /* Invader.java */,
+				4CD02EA10B73CCD300065DA8 /* Invader.jpg */,
+				4C96FFCA0ACDC8C10011AF21 /* Invader1a.gif */,
+				4C96FFCB0ACDC8C10011AF21 /* Invader1b.gif */,
+				4C96FFCC0ACDC8C10011AF21 /* Invader2a.gif */,
+				4C96FFCD0ACDC8C10011AF21 /* Invader2b.gif */,
+				4C96FFCE0ACDC8C10011AF21 /* Invader3a.gif */,
+				4C96FFCF0ACDC8C10011AF21 /* Invader3b.gif */,
+				4C96FFD00ACDC8C10011AF21 /* Invader4.gif */,
+				4C96FFD10ACDC8C10011AF21 /* Landing.aif */,
+				4C96FFD20ACDC8C10011AF21 /* Last one.aif */,
+				4C96FFD30ACDC8C10011AF21 /* Lela.jpg */,
+				4C96FFD40ACDC8C10011AF21 /* Lets rock.aif */,
+				4C96FFD50ACDC8C10011AF21 /* Madman.aif */,
+				4C96FFD60ACDC8C10011AF21 /* Orders.aif */,
+				4C96FFD70ACDC8C10011AF21 /* Shield.java */,
+				4C96FFD80ACDC8C10011AF21 /* Shooter.gif */,
+				4C96FFD90ACDC8C10011AF21 /* Shooter.java */,
+				4C96FFDA0ACDC8C10011AF21 /* Type.aif */,
+				4C96FFDB0ACDC8C10011AF21 /* War_over.jpg */,
+				4C96FFDC0ACDC8C10011AF21 /* Whir.aif */,
+				6A8008AE02C7B68F0CC91562 /* Manifest */,
+				6A0644A002C7BD230CC91562 /* Documentation */,
+				0120612AFEC8923411DB9C8B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0120612AFEC8923411DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6A9ED92C02B0286D0CC91562 /* Futurama.jar */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6A0644A002C7BD230CC91562 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				6A0644AC02C7C26E0CC91562 /* Futurama.1 */,
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXJavaArchiveBuildPhase section */
+		130F8B93001BDF0A11CA292A /* JavaArchive */ = {
+			isa = PBXJavaArchiveBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4C96FFDD0ACDC8C10011AF21 /* Bells.aif in JavaArchive */,
+				4C96FFDF0ACDC8C10011AF21 /* Boom.aif in JavaArchive */,
+				4C96FFE00ACDC8C10011AF21 /* Bullet.aif in JavaArchive */,
+				4C96FFE10ACDC8C10011AF21 /* buzz.aif in JavaArchive */,
+				4C96FFE20ACDC8C10011AF21 /* CongratsA.jpg in JavaArchive */,
+				4C96FFE30ACDC8C10011AF21 /* CongratsAS.jpg in JavaArchive */,
+				4C96FFE40ACDC8C10011AF21 /* CongratsASS.jpg in JavaArchive */,
+				4C96FFE50ACDC8C10011AF21 /* Danger Zone.aif in JavaArchive */,
+				4C96FFE60ACDC8C10011AF21 /* Defeated.aif in JavaArchive */,
+				4C96FFE70ACDC8C10011AF21 /* End.jpg in JavaArchive */,
+				4C96FFE80ACDC8C10011AF21 /* Fry.jpg in JavaArchive */,
+				4C96FFE90ACDC8C10011AF21 /* Fry1.jpg in JavaArchive */,
+				4C96FFEA0ACDC8C10011AF21 /* Fry2.jpg in JavaArchive */,
+				4C96FFEB0ACDC8C10011AF21 /* futurama_title.jpg in JavaArchive */,
+				4C96FFEC0ACDC8C10011AF21 /* Futurama.jpg in JavaArchive */,
+				4C96FFF00ACDC8C10011AF21 /* Hehehe.aif in JavaArchive */,
+				4C96FFF10ACDC8C10011AF21 /* Intro.aif in JavaArchive */,
+				4C96FFF20ACDC8C10011AF21 /* Invader.aif in JavaArchive */,
+				4C96FFF50ACDC8C10011AF21 /* Invader1a.gif in JavaArchive */,
+				4C96FFF60ACDC8C10011AF21 /* Invader1b.gif in JavaArchive */,
+				4C96FFF70ACDC8C10011AF21 /* Invader2a.gif in JavaArchive */,
+				4C96FFF80ACDC8C10011AF21 /* Invader2b.gif in JavaArchive */,
+				4C96FFF90ACDC8C10011AF21 /* Invader3a.gif in JavaArchive */,
+				4C96FFFA0ACDC8C10011AF21 /* Invader3b.gif in JavaArchive */,
+				4C96FFFB0ACDC8C10011AF21 /* Invader4.gif in JavaArchive */,
+				4C96FFFC0ACDC8C10011AF21 /* Landing.aif in JavaArchive */,
+				4C96FFFD0ACDC8C10011AF21 /* Last one.aif in JavaArchive */,
+				4C96FFFE0ACDC8C10011AF21 /* Lela.jpg in JavaArchive */,
+				4C96FFFF0ACDC8C10011AF21 /* Lets rock.aif in JavaArchive */,
+				4C9600000ACDC8C10011AF21 /* Madman.aif in JavaArchive */,
+				4C9600010ACDC8C10011AF21 /* Orders.aif in JavaArchive */,
+				4C9600030ACDC8C10011AF21 /* Shooter.gif in JavaArchive */,
+				4C9600050ACDC8C10011AF21 /* Type.aif in JavaArchive */,
+				4C9600060ACDC8C10011AF21 /* War_over.jpg in JavaArchive */,
+				4C9600070ACDC8C10011AF21 /* Whir.aif in JavaArchive */,
+				4C88BF4D0B294875006EA8EF /* Highscores.jpg in JavaArchive */,
+				4C90A9530B37DC9B00A65ACE /* Decend.aif in JavaArchive */,
+				4C0094BD0B37F04C002B6ADB /* Bomb.gif in JavaArchive */,
+				4C0094BE0B37F04C002B6ADB /* Bomb2.gif in JavaArchive */,
+				4C0094BF0B37F04C002B6ADB /* Bonus Explosion.gif in JavaArchive */,
+				4C0094C00B37F04C002B6ADB /* Explosion.gif in JavaArchive */,
+				4CDC8A2D0B3CC516008DCBE4 /* Highscores.txt in JavaArchive */,
+				4CDC8A2F0B3CC522008DCBE4 /* Highscores.txt in JavaArchive */,
+				4C6213340B4B74CC0067C9F5 /* Hit.aif in JavaArchive */,
+				4CD02EA20B73CCD300065DA8 /* Invader.jpg in JavaArchive */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXJavaArchiveBuildPhase section */
+
+/* Begin PBXProject section */
+		00E6828EFEC88D1A11DB9C8B /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 0AE31F6908BBAC2E002AF232 /* Build configuration list for PBXProject "Futurama" */;
+			hasScannedForEncodings = 1;
+			mainGroup = 00E6828FFEC88D1A11DB9C8B;
+			productRefGroup = 0120612AFEC8923411DB9C8B /* Products */;
+			projectDirPath = "";
+			targets = (
+				130F8B90001BDF0A11CA292A /* Futurama */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		130F8B91001BDF0A11CA292A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				130F8B92001BDF0A11CA292A /* Futurama.java in Sources */,
+				4C96FFED0ACDC8C10011AF21 /* FuturamaGame.java in Sources */,
+				4C96FFEE0ACDC8C10011AF21 /* FuturamaJFrame.java in Sources */,
+				4C96FFEF0ACDC8C10011AF21 /* FuturamaJPanel.java in Sources */,
+				4C96FFF30ACDC8C10011AF21 /* Invader.java in Sources */,
+				4C9600020ACDC8C10011AF21 /* Shield.java in Sources */,
+				4C9600040ACDC8C10011AF21 /* Shooter.java in Sources */,
+				4CD02EB00B73CD7C00065DA8 /* BonusInvader.java in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXToolTarget section */
+		130F8B90001BDF0A11CA292A /* Futurama */ = {
+			isa = PBXToolTarget;
+			buildConfigurationList = 0AE31F6508BBAC2E002AF232 /* Build configuration list for PBXToolTarget "Futurama" */;
+			buildPhases = (
+				130F8B91001BDF0A11CA292A /* Sources */,
+				130F8B93001BDF0A11CA292A /* JavaArchive */,
+				130F8B94001BDF0A11CA292A /* Frameworks */,
+				6A0644BC02C7C42C0CC91562 /* CopyFiles */,
+			);
+			dependencies = (
+			);
+			name = Futurama;
+			productInstallPath = /usr/local/bin;
+			productName = Futurama;
+			productReference = 6A9ED92C02B0286D0CC91562 /* Futurama.jar */;
+		};
+/* End PBXToolTarget section */
+
+/* Begin XCBuildConfiguration section */
+		0AE31F6608BBAC2E002AF232 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				JAVA_ARCHIVE_CLASSES = YES;
+				JAVA_ARCHIVE_COMPRESSION = NO;
+				JAVA_ARCHIVE_TYPE = JAR;
+				JAVA_COMPILER = /usr/bin/javac;
+				JAVA_MANIFEST_FILE = Manifest;
+				JAVA_SOURCE_SUBDIR = .;
+				PRODUCT_NAME = Futurama;
+				PURE_JAVA = YES;
+				REZ_EXECUTABLE = YES;
+				ZERO_LINK = YES;
+			};
+			name = Debug;
+		};
+		0AE31F6708BBAC2E002AF232 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				JAVA_ARCHIVE_CLASSES = YES;
+				JAVA_ARCHIVE_COMPRESSION = NO;
+				JAVA_ARCHIVE_TYPE = JAR;
+				JAVA_COMPILER = /usr/bin/javac;
+				JAVA_MANIFEST_FILE = Manifest;
+				JAVA_SOURCE_SUBDIR = .;
+				PRODUCT_NAME = Futurama;
+				PURE_JAVA = YES;
+				REZ_EXECUTABLE = YES;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		0AE31F6A08BBAC2E002AF232 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0AE31F6B08BBAC2E002AF232 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0AE31F6508BBAC2E002AF232 /* Build configuration list for PBXToolTarget "Futurama" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0AE31F6608BBAC2E002AF232 /* Debug */,
+				0AE31F6708BBAC2E002AF232 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0AE31F6908BBAC2E002AF232 /* Build configuration list for PBXProject "Futurama" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0AE31F6A08BBAC2E002AF232 /* Debug */,
+				0AE31F6B08BBAC2E002AF232 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 00E6828EFEC88D1A11DB9C8B /* Project object */;
+}

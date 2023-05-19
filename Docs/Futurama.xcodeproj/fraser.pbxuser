@@ -1,0 +1,200 @@
+// !$*UTF8*$!
+{
+	00E6828EFEC88D1A11DB9C8B /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 130F8B98001BDF0A11CA292A;
+		activeTarget = 130F8B90001BDF0A11CA292A /* Futurama */;
+		addToTargets = (
+			130F8B90001BDF0A11CA292A /* Futurama */,
+		);
+		breakpoints = (
+			4C88BF010B292C2E006EA8EF /* FuturamaJPanel.java:2 */,
+		);
+		codeSenseManager = 4C96FFAE0ACDC80F0011AF21 /* Code sense */;
+		executables = (
+			130F8B98001BDF0A11CA292A,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					297,
+					103.2085,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					210,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					30,
+					20,
+					48.1626,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 198651463;
+			PBXWorkspaceStateSaveDate = 198651463;
+		};
+		sourceControlManager = 4C96FFAD0ACDC80F0011AF21 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	010341B7FEEF030011DB9C8B /* Futurama.java */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {899, 628}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {899, 628}}";
+		};
+	};
+	130F8B90001BDF0A11CA292A /* Futurama */ = {
+		activeExec = 0;
+	};
+	130F8B98001BDF0A11CA292A = {
+		isa = PBXExecutable;
+		activeArgIndex = 0;
+		activeArgIndices = (
+			YES,
+		);
+		argumentStrings = (
+			"-jar \"Futurama.jar\" ",
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = JavaDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 130F8B99001BDF0A11CA292A /* java */;
+		libgmallocEnabled = 0;
+		sourceDirectories = (
+		);
+	};
+	130F8B99001BDF0A11CA292A /* java */ = {
+		isa = PBXFileReference;
+		explicitFileType = "compiled.mach-o.executable";
+		name = java;
+		path = /usr/bin/java;
+		sourceTree = "<absolute>";
+	};
+	4C88BF010B292C2E006EA8EF /* FuturamaJPanel.java:2 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4C96FFC40ACDC8C10011AF21 /* FuturamaJPanel.java */;
+		hitCount = 0;
+		lineNumber = 2;
+		modificationTime = 187247662.178392;
+		state = 1;
+	};
+	4C96FFAD0ACDC80F0011AF21 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	4C96FFAE0ACDC80F0011AF21 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4C96FFC20ACDC8C10011AF21 /* FuturamaGame.java */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 1792}}";
+			sepNavSelRange = "{1821, 0}";
+			sepNavVisRect = "{{0, 1172}, {693, 620}}";
+		};
+	};
+	4C96FFC30ACDC8C10011AF21 /* FuturamaJFrame.java */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {968, 641}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {968, 641}}";
+		};
+	};
+	4C96FFC40ACDC8C10011AF21 /* FuturamaJPanel.java */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {818, 9534}}";
+			sepNavSelRange = "{10087, 0}";
+			sepNavVisRect = "{{0, 4855}, {818, 656}}";
+		};
+	};
+	4C96FFC80ACDC8C10011AF21 /* Invader.java */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 3654}}";
+			sepNavSelRange = "{2506, 0}";
+			sepNavVisRect = "{{0, 3034}, {693, 620}}";
+		};
+	};
+	4C96FFD70ACDC8C10011AF21 /* Shield.java */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 1960}}";
+			sepNavSelRange = "{2533, 0}";
+			sepNavVisRect = "{{0, 1340}, {693, 620}}";
+		};
+	};
+	4C96FFD90ACDC8C10011AF21 /* Shooter.java */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 1680}}";
+			sepNavSelRange = "{1217, 0}";
+			sepNavVisRect = "{{0, 447}, {693, 620}}";
+		};
+	};
+	6A8008AE02C7B68F0CC91562 /* Manifest */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {693, 620}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {693, 620}}";
+		};
+	};
+}

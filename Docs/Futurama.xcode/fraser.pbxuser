@@ -1,0 +1,242 @@
+// !$*UTF8*$!
+{
+	00E6828EFEC88D1A11DB9C8B = {
+		activeBuildStyle = 130F8B95001BDF0A11CA292A;
+		activeExecutable = 130F8B98001BDF0A11CA292A;
+		activeTarget = 130F8B90001BDF0A11CA292A;
+		addToTargets = (
+			130F8B90001BDF0A11CA292A,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 4CB3ABD90A368B2E003F1B95;
+		executables = (
+			130F8B98001BDF0A11CA292A,
+			4CB3ABD50A368B0F003F1B95,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					806,
+					45.2085,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					130.5835,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					181,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 178845582;
+			PBXWorkspaceStateSaveDate = 178845582;
+		};
+		sourceControlManager = 4CB3ABD80A368B2E003F1B95;
+		userBuildSettings = {
+		};
+	};
+	010341B7FEEF030011DB9C8B = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 884}}";
+			sepNavSelRange = "{384, 0}";
+			sepNavVisRect = "{{0, 0}, {692, 884}}";
+		};
+	};
+	130F8B90001BDF0A11CA292A = {
+		activeExec = 0;
+		executables = (
+			4CB3ABD50A368B0F003F1B95,
+		);
+	};
+	130F8B98001BDF0A11CA292A = {
+		activeArgIndex = 0;
+		activeArgIndices = (
+			YES,
+		);
+		argumentStrings = (
+			"-jar \"Futurama.jar\" ",
+		);
+		configStateDict = {
+		};
+		cppStopOnCatchEnabled = 0;
+		cppStopOnThrowEnabled = 0;
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = JavaDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		isa = PBXExecutable;
+		launchableReference = 130F8B99001BDF0A11CA292A;
+		libgmallocEnabled = 0;
+		shlibInfoDictList_v2 = (
+		);
+		sourceDirectories = (
+		);
+	};
+	130F8B99001BDF0A11CA292A = {
+		isa = PBXFileReference;
+		lastKnownFileType = "compiled.mach-o.executable";
+		name = java;
+		path = /usr/bin/java;
+		refType = 0;
+		sourceTree = "<absolute>";
+	};
+	4C2088800A38040C000150F3 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 3234}}";
+			sepNavSelRange = "{4335, 0}";
+			sepNavVisRect = "{{0, 569}, {692, 884}}";
+		};
+	};
+	4C42B0B30A51E6E70049B396 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 1890}}";
+			sepNavSelRange = "{306, 0}";
+			sepNavVisRect = "{{0, 26}, {692, 884}}";
+		};
+	};
+	4C9ECB0D0A5E1145005C0349 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 884}}";
+			sepNavSelRange = "{767, 0}";
+			sepNavVisRect = "{{0, 0}, {692, 884}}";
+		};
+	};
+	4CA73C200A59FFD1006704EC = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 1372}}";
+			sepNavSelRange = "{1144, 0}";
+			sepNavVisRect = "{{0, 33}, {692, 884}}";
+		};
+	};
+	4CB3ABD50A368B0F003F1B95 = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		cppStopOnCatchEnabled = 0;
+		cppStopOnThrowEnabled = 0;
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		isa = PBXExecutable;
+		libgmallocEnabled = 0;
+		name = Futurama;
+		shlibInfoDictList_v2 = (
+		);
+		sourceDirectories = (
+		);
+	};
+	4CB3ABD80A368B2E003F1B95 = {
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		isa = PBXSourceControlManager;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	4CB3ABD90A368B2E003F1B95 = {
+		indexTemplatePath = "";
+		isa = PBXCodeSenseManager;
+	};
+	4CB3ABEF0A368E15003F1B95 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 7070}}";
+			sepNavSelRange = "{5198, 0}";
+			sepNavVisRect = "{{0, 2169}, {692, 884}}";
+		};
+	};
+	4CD558650A392E7F00016239 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 1148}}";
+			sepNavSelRange = "{662, 0}";
+			sepNavVisRect = "{{0, 264}, {692, 884}}";
+		};
+	};
+	4CD558FA0A3963E300016239 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 2100}}";
+			sepNavSelRange = "{1826, 0}";
+			sepNavVisRect = "{{0, 722}, {692, 884}}";
+		};
+	};
+	6A8008AE02C7B68F0CC91562 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {960, 893}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {960, 893}}";
+		};
+	};
+}
